@@ -88,16 +88,11 @@ const blockChain = [
   },
   {
     id: 4,
-    skill: 'Ganache',
-    level: 'Experienced',
-  },
-  {
-    id: 5,
     skill: 'Moralis',
     level: 'Basic',
   },
   {
-    id: 6,
+    id: 5,
     skill: 'Hedera',
     level: 'Basic',
   },
@@ -126,11 +121,6 @@ const frontEnd = [
   },
   {
     id: 5,
-    skill: 'StyledComponent',
-    level: 'Basic',
-  },
-  {
-    id: 6,
     skill: 'Typescript',
     level: 'Basic',
   },
@@ -139,31 +129,21 @@ const frontEnd = [
 const backEnd = [
   {
     id: 1,
-    skill: 'Nodejs',
+    skill: 'Expressjs',
     level: 'Experienced',
   },
   {
     id: 2,
-    skill: 'Express',
-    level: 'Experienced',
-  },
-  {
-    id: 3,
     skill: 'MongoDB',
     level: 'Experienced',
   },
   {
-    id: 4,
+    id: 3,
     skill: 'MySQL',
     level: 'Experienced',
   },
   {
-    id: 5,
-    skill: 'Python',
-    level: 'Basic',
-  },
-  {
-    id: 6,
+    id: 4,
     skill: 'Spring',
     level: 'Basic',
   },
